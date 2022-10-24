@@ -1,0 +1,22 @@
+p{
+	
+	font-size: 25px;
+	color: black;
+	font-family: Arial, sans-serif, monospace;
+	
+}
+body{
+	
+	background-color: chocolate;
+	font-family: monospace;
+	color: brown;
+}
+h1{
+	font-family: inherit;
+    font-size: 3em;
+}
+a:link{
+	
+	text-decoration: none;
+	color: saddlebrown;
+}
